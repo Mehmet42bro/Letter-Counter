@@ -3,8 +3,8 @@ You enter a sentence or a word and the code counts all the letters and signs ( *
 
 For example:
 Input = ["What a wonderful world"]
-Outpu = [ 
- : 3
+Output = [ 
+  : 3
 W: 1
 a: 2
 d: 2
